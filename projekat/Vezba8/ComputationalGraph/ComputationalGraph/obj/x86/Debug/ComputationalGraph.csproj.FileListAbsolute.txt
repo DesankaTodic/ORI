@@ -1,0 +1,23 @@
+C:\Users\STUDENT\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+C:\Users\STUDENT\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+C:\Users\STUDENT\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+C:\Users\STUDENT\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+C:\Users\Desanka\Desktop\faks\VIsemestar\ori\Vezbe Ivan\Vezba8\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+C:\Users\Desanka\Desktop\faks\VIsemestar\ori\Vezbe Ivan\Vezba8\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+C:\Users\Desanka\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+C:\Users\Desanka\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+C:\Users\Desanka\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+C:\Users\Desanka\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+C:\Users\Desanka\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
+C:\Users\Desanka\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.Properties.Resources.resources
+C:\Users\Desanka\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.GenerateResource.Cache
+C:\Users\Desanka\Desktop\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.prepoznavanjeSlova.resources
+C:\Users\Desanka\Desktop\ori_projekat\projekat\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+C:\Users\Desanka\Desktop\ori_projekat\projekat\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+C:\Users\Desanka\Desktop\ori_projekat\projekat\Vezba8\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+C:\Users\Desanka\Desktop\ori_projekat\projekat\Vezba8\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+C:\Users\Desanka\Desktop\ori_projekat\projekat\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
+C:\Users\Desanka\Desktop\ori_projekat\projekat\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.prepoznavanjeSlova.resources
+C:\Users\Desanka\Desktop\ori_projekat\projekat\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.Properties.Resources.resources
+C:\Users\Desanka\Desktop\ori_projekat\projekat\Vezba8\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.GenerateResource.Cache
